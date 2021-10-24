@@ -24,6 +24,7 @@ This repository contains:
 | Videocard   | [NVIDIA GeForce GTX780 3GB (GPU: GK110 revision B1)](https://pcpartpicker.com/product/43rG3C/msi-video-card-n7803gd5)
 | Storage     | [Samsung SSD 850 EVO 120GB](https://pcpartpicker.com/product/9Q7CmG/samsung-internal-hard-drive-mz75e120bam) & [Samsung SSD 850 PRO 256GB](https://pcpartpicker.com/product/JMPfrH/samsung-internal-hard-drive-mz7ke256bw)|
 | Network     | [Fenvi FV-T919 PCIe x1 802.11a/b/g/n/ac Wi-Fi Adapter](https://pcpartpicker.com/product/BJ97YJ/fenvi-fv-t919-none-wi-fi-adapter-fv-t919)
+| Case        | Coolermaster CM Storm | 
 | PSU         | [Antec High Current Gamer 520 W 80+ Bronze Certified ATX Power Supply](https://pcpartpicker.com/product/CmMFf7/antec-power-supply-hcg520)
 | Audio | MB-chip: Realtek ALC1150 (layout 1) |
 
@@ -38,8 +39,8 @@ You may find great installation guide [here](https://dortania.github.io/OpenCore
 ### Known issues
 
 **Open**: 
-- [ ] OSX runs great, but the OS freezes sometimes on a randomly moment.
+- [ ] OSX runs great, but the OS freezes sometimes on a randomly moment
 
 **ToDo**: 
 
-- [ ] USB mapping.
+- [ ] USB mapping
