@@ -24,9 +24,6 @@ This repository contains:
 | Storage     | [Samsung SSD 850 EVO 120GB](https://pcpartpicker.com/product/9Q7CmG/samsung-internal-hard-drive-mz75e120bam) & [Samsung SSD 850 PRO 256GB](https://pcpartpicker.com/product/JMPfrH/samsung-internal-hard-drive-mz7ke256bw)|
 | Audio | MB-chip: Realtek ALC1150 (layout 1) |
 
-    
-Samsung 850 EVO-Series
-
 ## macOS
 
 macOS Big Sur version 11.6 
