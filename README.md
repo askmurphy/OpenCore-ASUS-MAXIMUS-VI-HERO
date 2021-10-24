@@ -24,8 +24,7 @@ This repository contains:
 | ---- | ---- |
 | Motherboard | [Asus MAXIMUS VI HERO](https://pcpartpicker.com/product/msw323/asus-motherboard-maximusvihero) |
 | CPU         | Quad-Core Intel Core i7 3,5GHz |
-| Memory      | [2x 8GB Kingston KHX1600C10D3/8GX](    
-Kingston KHX1600C10D3B1K2/16G 16 GB) & 2x 2GB Corsair CML4GX3M2A1600C9 integrated | 
+| Memory      | [2x 8GB Kingston KHX1600C10D3/8GX](https://pcpartpicker.com/product/6jTmP6/kingston-memory-khx1600c10d3b1k216g) & 2x 2GB Corsair CML4GX3M2A1600C9 integrated | 
 | Audio       | Realtek ALC1150 (layout 1 used) |
 
 
