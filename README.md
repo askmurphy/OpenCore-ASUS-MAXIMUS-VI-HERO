@@ -9,8 +9,7 @@ This repository contains:
 
 - [Hardware list](#hardware-list)
 - [macOS](#macos)
-- [OpenCore](#opencore)
-  - [Known Issues](#known-issues)
+- [Known Issues](#known-issues)
  
 
 ## Hardware list
@@ -33,8 +32,6 @@ This repository contains:
 macOS Big Sur version 11.6 
 
 You may find great installation guide [here](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/).
-
-## OpenCore
 
 ### Known issues
 
