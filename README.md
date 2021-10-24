@@ -10,6 +10,7 @@ This repository contains:
 - [Hardware list](#hardware-list)
 - [macOS](#macos)
 - [Known Issues](#known-issues)
+- [ToDo](#todo)
  
 
 ## Hardware list
@@ -38,6 +39,6 @@ You may find great installation guide [here](https://dortania.github.io/OpenCore
 **Open**: 
 - [ ] OSX runs great, but the OS freezes sometimes on a randomly moment
 
-**ToDo**: 
+## ToDo 
 
 - [ ] USB mapping
