@@ -34,7 +34,7 @@ You may find great installation guide [here](https://dortania.github.io/OpenCore
 
 ### Known issues
 
-**Open**: None.
-- [x] OSX runs great, but the OS freezes sometimes on a randomly moment.
+**Open**: 
+- [ ] OSX runs great, but the OS freezes sometimes on a randomly moment.
 
 **Resolved**:
