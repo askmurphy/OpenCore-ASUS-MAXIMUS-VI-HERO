@@ -22,8 +22,8 @@ This repository contains:
 
 | Type | Item |
 | ---- | ---- |
-| Motherboard | [Asus MAXIMUS VI HERO Motherboard](https://pcpartpicker.com/product/msw323/asus-motherboard-maximusvihero) |
-| CPU         | [Quad-Core Intel Core i7 3,5GHz]        |
+| Motherboard | [Asus MAXIMUS VI HERO](https://pcpartpicker.com/product/msw323/asus-motherboard-maximusvihero) |
+| CPU         | Quad-Core Intel Core i7 3,5GHz          |
 
 
 | Memory | 
