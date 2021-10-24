@@ -38,6 +38,9 @@ You may find great installation guide [here](https://dortania.github.io/OpenCore
 
 **Open**: 
 - [ ] OSX runs great, but the OS freezes sometimes on a randomly moment
+  Fix attempt (24-oct-2021), tip from Outrageous-Umpire606 from Reddit: updated Samsung SSD firmware (120GB SSD was not uptodate),
+  will see the next days if I got a Freeze again ;-)
+
 
 ## ToDo 
 
