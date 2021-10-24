@@ -11,12 +11,7 @@ This repository contains:
 - [macOS](#macos)
 - [OpenCore](#opencore)
   - [Known Issues](#known-issues)
-  - [ACPI](#acpi)
-  - [USB](#usb)
-  - [Drivers](#drivers)
-  - [Kext](#kext)
-  - [Resources](#resources)
-  - [Tools](#tools)
+ 
 
 ## Hardware list
 
@@ -25,8 +20,8 @@ This repository contains:
 | Motherboard | [Asus MAXIMUS VI HERO ATX LGA1150](https://pcpartpicker.com/product/msw323/asus-motherboard-maximusvihero) |
 | CPU         | Quad-Core Intel Core i7 3,5GHz |
 | CPU Cooler  | [Cooler Master Hyper H411R](https://pcpartpicker.com/product/8hx2FT/cooler-master-hyper-h411r-341-cfm-cpu-cooler-rr-h411-20pw-r1) |
-| Memory      | [2x 8GB Kingston KHX1600C10D3/8GX](https://pcpartpicker.com/product/6jTmP6/kingston-memory-khx1600c10d3b1k216g) & 2x 2GB Corsair CML4GX3M2A1600C9 integrated | 
-| Audio       | Realtek ALC1150 (layout 1 used) |
+| Memory      | [2x 8GB Kingston KHX1600C10D3/8GX](https://pcpartpicker.com/product/6jTmP6/kingston-memory-khx1600c10d3b1k216g) & [2x 2GB Corsair CML4GX3M2A1600C9] (https://pcpartpicker.com/product/ZTkD4D/corsair-memory-cml4gx3m2a1600c9b) | 
+| Internal MB Audio | Realtek ALC1150 (layout 1 used) |
 
 
 ## macOS
