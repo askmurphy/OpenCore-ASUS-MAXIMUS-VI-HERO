@@ -30,7 +30,7 @@ This repository contains:
 
 ## macOS
 
-macOS Big Sur version 11.6 
+macOS Big Sur version 11.6 (Build 20G165)
 
 You may find great installation guide [here](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/).
 
